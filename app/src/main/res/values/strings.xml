@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">SafeApp</string>
+
+<!-- Lead 页面 -->
+
+<string name="leadimage_description">Guide page image</string>
+<string name="leadtext_description1">Small icon 1</string>
+<string name="leadtext_description2">Small icon 2</string>
+<string name="leadtext_description3">Small icon 1</string>
+</resources>
